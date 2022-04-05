@@ -1,4 +1,4 @@
-# Amazon Review Tagger
+# NLP Amazon Review Tagger
 Assigns tags to each review in Amazon Product
 
 
