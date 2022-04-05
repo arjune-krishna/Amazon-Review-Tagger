@@ -1,5 +1,5 @@
 # Amazon Review Tagger
-Assigns tags to each review in an Amazon Product
+Assigns tags to each review in Amazon Product
 
 
 Libraries Used:
